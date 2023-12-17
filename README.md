@@ -68,4 +68,4 @@ which contains one molecule created by merging molecules in the dataset folder
 
 ## Contact:
 For further support and any questions, you can contact me via:\
-
+![Static Badge](https://img.shields.io/badge/Telegram%20-%20https%3A%2F%2Ft.me%2Fshadmehr_g%20-%20blue?style=flat&logo=telegram&color=blue&link=https%3A%2F%2Ft.me%2Fshadmehr_g)
