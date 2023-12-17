@@ -5,8 +5,8 @@ Zinc Database Downloader &amp; Merger
 Due to the Zinc15 & Zinc20 database website's limitations on downloading big dataset files in .sdf, .smi & other formats, this tool will help you to easily download any dataset you want based on your zinc ID's list file.
 
 ## Prerequired Python libraries:
-requests\
-colorama
+* requests
+* colorama
 
 ## Prerequiered files:
 Zinc ID's list:\
@@ -67,5 +67,12 @@ merged_dataset
 which contains one molecule created by merging molecules in the dataset folder
 
 ## Contact:
-For further support and any questions, you can contact me via:\
-![Static Badge](https://img.shields.io/badge/Telegram%20-%20https%3A%2F%2Ft.me%2Fshadmehr_g%20-%20blue?style=flat&logo=telegram&color=blue&link=https%3A%2F%2Ft.me%2Fshadmehr_g)
+For further support and any questions, you can contact me via:
+
+[![Static Badge](https://img.shields.io/badge/Telegram%20-%20shadmehr_g%20-%20blue?style=flat&logo=telegram&color=blue)](https://t.me/shadmehr_g)\
+[![Static Badge](https://img.shields.io/badge/Gmail%20-%20shadmehr.ghorbani78%40gmail.com%20-%20red?style=flat&logo=gmail)](mailto:shadmehr.ghorbani78@gmail.com)\
+[![Static Badge](https://img.shields.io/badge/Academic%20Email%20-%20sh--ghorbani%40student.tums.ac.ir%20-%20silver?style=flat)](mailto:sh-ghorbani@student.tums.ac.ir)\
+[![Static Badge](https://img.shields.io/badge/Linkedin%20-%20shadmehr--ghorbani%20-%20blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shadmehr-ghorbani)\
+[![Static Badge](https://img.shields.io/badge/Researchgate%20-%20shadmehr--ghorbani%20-%20green?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Shadmehr-Ghorbani)
+
+
