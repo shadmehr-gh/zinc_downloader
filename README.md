@@ -7,6 +7,7 @@ Due to the Zinc15 & Zinc20 database website's limitations on downloading big dat
 ## Prerequired Python libraries:
 * requests
 * colorama
+* tqdm
 
 ## Prerequiered files:
 Zinc ID's list:\
