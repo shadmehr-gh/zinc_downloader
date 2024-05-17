@@ -23,7 +23,6 @@ def download_molecule(zinc_id, zinc_version, zinc_file_type):
         if response.status_code == 200:
             with open(file_path, "wb") as f:
                 f.write(response.content)
-            print(Fore.GREEN + f"Downloaded {zinc_id}.{zinc_file_type}" + Fore.RESET)
         else:
             print(Fore.RED + f"Failed to download {zinc_id}.{zinc_file_type}" + Fore.RESET)
     except requests.exceptions.RequestException as e:
@@ -70,7 +69,7 @@ def zinc_merger(zinc_file_type, zinc_id_list):
             except Exception as e:
                 print(Fore.RED + f"Error while merging {zinc_id}.{zinc_file_type}: {e}" + Fore.RESET)
 
-    print(Fore.GREEN + "All molecules merged successfully" + Fore.RESET)
+    print(Fore.GREEN + "All molecules merged successfully\n" + Fore.RESET)
 
 def main():
     print(Fore.BLUE + "\n****************************************************")
@@ -114,6 +113,8 @@ def main():
             except Exception as e:
                 print(Fore.RED + f"Error: {e}" + Fore.RESET)
 
+    print("****************************************************\n")
+    print(Fore.GREEN + "Download job finished." + Fore.RESET)
     print("****************************************************\n")
 
     if merge_bool == "yes":
