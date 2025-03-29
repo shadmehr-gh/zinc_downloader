@@ -70,7 +70,7 @@ which contains one molecule created by merging molecules in the dataset folder
 ## Contact:
 For further support and any questions, you can contact me via:
 
-[![Static Badge](https://img.shields.io/badge/Telegram%20-%20shadmehr_g%20-%20blue?style=flat&logo=telegram&color=blue)](https://t.me/shadmehr_g)\
+[![Static Badge](https://img.shields.io/badge/Telegram%20-%20shadmehr_gh%20-%20blue?style=flat&logo=telegram&color=blue)](https://t.me/shadmehr_g)\
 [![Static Badge](https://img.shields.io/badge/Gmail%20-%20shadmehr.ghorbani78%40gmail.com%20-%20red?style=flat&logo=gmail)](mailto:shadmehr.ghorbani78@gmail.com)\
 [![Static Badge](https://img.shields.io/badge/Academic%20Email%20-%20sh--ghorbani%40student.tums.ac.ir%20-%20silver?style=flat)](mailto:sh-ghorbani@student.tums.ac.ir)\
 [![Static Badge](https://img.shields.io/badge/Linkedin%20-%20shadmehr--ghorbani%20-%20blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shadmehr-ghorbani)\
